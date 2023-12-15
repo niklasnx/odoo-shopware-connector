@@ -9,8 +9,7 @@
 
 # connector
 
-TODO: add repo description.
-
+Odoo to Shopware 6 bidirectional connector - forked from connector
 <!-- /!\ do not modify below this line -->
 
 <!-- prettier-ignore-start -->
